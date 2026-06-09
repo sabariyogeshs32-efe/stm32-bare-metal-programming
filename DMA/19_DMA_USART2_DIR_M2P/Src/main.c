@@ -1,4 +1,3 @@
-/* Firmware Driver for USART2*/
 #include "stm32f446xx.h"
 #include <stdint.h>
 #include <stdio.h>
