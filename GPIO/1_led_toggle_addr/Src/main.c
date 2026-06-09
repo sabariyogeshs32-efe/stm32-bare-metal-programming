@@ -1,4 +1,3 @@
-//#include "stm32f4xx.h"
 #define PERIPHERAL_BASE     		(0x40000000UL)
 #define AHB1BUS_OFFSET 			    (0x00020000UL)
 #define AHB1BUS_BASE 				(PERIPHERAL_BASE + AHB1BUS_OFFSET)
